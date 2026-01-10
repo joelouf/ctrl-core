@@ -18,7 +18,7 @@
     "jwt-decode": "^3.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.11.2",
+    "react-router-dom": "^6.30.3",
     "vitest": "^4.0.16",
     "vite": "^7.3.1",
     "@vitejs/plugin-react": "^4.0.0"
